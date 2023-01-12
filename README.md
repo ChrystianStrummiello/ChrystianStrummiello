@@ -1,11 +1,6 @@
 <h1 align="center">Sejam bem vindos ! <br> Me chamo Chrystian Strummiello.</h1>
 <h2 align="center">Estudante de Desenvolvimento Web<h2>
 
-<section align="center">
-  <a href="https://github.com/ChrystianStrummiello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrystianStrummiello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianStrummiello&layout=compact&langs_count=7&theme=dark"/>
-</section>
 
 <section align="center" height=200><br>
 <h2>Minhas Stacks<h2>
